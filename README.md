@@ -6,15 +6,16 @@ button opens all of the unread posts to new tabs on the same window.
 
 Supported websites
 ------------------
-Currently this addon works on some sites that use one of the following forum software:
- - Simple Machines Forum
- - phpBB
+Currently this extension works on some sites that use one of the following
+forum software:
  - Discourse
+ - phpBB
+ - Simple Machines Forum
  - vBulletin
 
 This may not apply to all sites using these software, because of differing
 themes or versions of software. If you notice that some site is not working,
-please send me a patce (pull request) or open a bug report (an issue), but
+please send me a patch (pull request) or open a bug report (an issue), but
 first please read the contributing section.
 
 Contributing
@@ -37,7 +38,8 @@ pull request in GitHub lingo), please follow these simple advices:
    existing code.
  - Please, test your changes.
 
-Patches to add support for new sites are very welcome!
+Patches to add support for new sites are very welcome! And I will accept patches
+on email as well (the same rules apply)!
 
 If you would like to contribute by sending translations to new languages,
 follow the guidelines above for code contributions and note that:
@@ -50,7 +52,7 @@ follow the guidelines above for code contributions and note that:
 I'm not trying to disencourage anyone from contributing, but it is much nicer
 for everyone if we try to keep the quality up than fix crap. Mistakes are not
 forbidden and you will not be banned from contributing just because you didn't
-do everything perfectly.
+do everything perfectly the first time.
 
 Copying
 -------
