@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "Open new posts on tabs",
+        "description": "Name of the extension."
+    },
+
+    "extensionDescription": {
+        "message": "Opens new forum posts on new tabs with a single click",
+        "description": "Description of the extension."
+    },
+
+    "buttonDefaultTitle": {
+        "message": "Open new posts on new tabs",
+        "description": "Default message shown on pageAction button"
+    }
+}
