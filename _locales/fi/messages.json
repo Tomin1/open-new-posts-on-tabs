@@ -1,16 +1,16 @@
 {
     "extensionName": {
-        "message": "Avaa uudet viesit välilehtiin",
+        "message": "Avaa uudet viestit välilehtiin",
         "description": "Name of the extension."
     },
 
     "extensionDescription": {
-        "message": "Avaa uudet viesit uusiin välilehtiin yhdellä klikkauksella",
+        "message": "Avaa uudet viestit uusiin välilehtiin yhdellä klikkauksella",
         "description": "Description of the extension."
     },
 
     "buttonDefaultTitle": {
-        "message": "Avaa uudet viesit uusiin välilehtiin",
+        "message": "Avaa uudet viestit uusiin välilehtiin",
         "description": "Default message shown on pageAction button"
     }
 }
