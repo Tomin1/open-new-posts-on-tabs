@@ -72,5 +72,5 @@ Copying
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-All files that are not explictly marked as GPLv3 are still licensed under
+All files that are not explicitly marked as GPLv3 are still licensed under
 GPLv3.
