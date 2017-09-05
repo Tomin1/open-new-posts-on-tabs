@@ -14,11 +14,11 @@
    viewBox="0 0 79.374999 79.374997"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="new-tab.svg"
-   inkscape:export-filename="/home/tomi/Dropbox/Programming/FX/posts-on-new-tabs/icons/new-tab-32.png"
-   inkscape:export-xdpi="10.24"
-   inkscape:export-ydpi="10.24">
+   inkscape:export-filename="/home/tomi/Dropbox/Programming/FX/open-new-posts-on-tabs/icons/new-tab-38.png"
+   inkscape:export-xdpi="12.16"
+   inkscape:export-ydpi="12.16">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -40,11 +40,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
