@@ -45,7 +45,7 @@ If you would like to contribute by sending translations to new languages,
 follow the guidelines above for code contributions and note that:
  - You should have good skills in the language that you are translating to.
    Native skills with good education preferred.
- - You should use this extension yourself to be familiar with it's operation.
+ - You should use this extension yourself to be familiar with its operation.
  - Think how other people may understand your chosen wording and how much there
    is change to misunderstand what you wrote.
 
